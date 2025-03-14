@@ -9,7 +9,7 @@ body {
   
   header {
     background-color: #red; /* Глубокий синий */
-    color: #ffffff;
+    color: #FF0000;
     text-align: center;
     padding: 30px;
     transition: background-color 0.5s ease, transform 0.3s ease; /* Плавный переход для фона и трансформации */
